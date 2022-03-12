@@ -26,7 +26,7 @@
 defined('MOODLE_INTERNAL') || die();
 
 $plugin->component = 'qbehaviour_deferredfeedbackstudentfb';
-$plugin->version   = 2022030200;
+$plugin->version   = 2022030900;
 
 $plugin->requires  = 2021051100;
 
